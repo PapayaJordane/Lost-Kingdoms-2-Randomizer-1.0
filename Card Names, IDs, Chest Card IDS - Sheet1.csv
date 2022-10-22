@@ -1,0 +1,233 @@
+1,1,,Skeleton
+2,2,,Ghost Armor
+3,3,,Red Dragon
+4,4,,Golden Goose
+5,5,,Lizardman
+6,6,,Valkyrie
+7,7,,Thanatos
+8,8,,Cerberus
+9,9,,Phoenix
+10,A,,Mandragora
+11,B,,Red Lizard
+12,C,,Unicorn
+13,D,,Hobgoblin
+14,E,,Centaur
+15,F,,Sand Golem
+16,10,,Jack-O-Lantern
+17,11,,Devil Plant
+18,12,,Man Trap
+19,13,,Ashura
+20,14,,Sand Worm
+21,15,,Mummy
+22,16,,Cockatrice
+23,17,,Sasquatch
+24,18,,Wraith
+25,19,,Orb
+26,1A,,Barometz
+27,1B,,Fairy
+28,1C,,Mind Flayer
+29,1D,,Succubus
+30,1E,,Incubus
+31,1F,,Catoblepas
+32,20,,Kraken
+33,21,,Water Reaper
+34,22,,Fenril
+35,23,,Lich
+36,24,,Carbuncle
+37,25,,Chameleus
+38,26,,Flayer Spawn
+39,27,,Elephant King
+40,28,,Zombie Dragon
+41,29,,Fire Golem
+42,2A,,Running Bird
+43,2B,,Giant Crab
+44,2C,,Banshee
+45,2D,,Land Shark
+46,2E,,Berserker
+47,2F,,Flying Ray
+48,30,,Demon Hound
+49,31,,Behemoth
+50,32,,Mole Monster
+51,33,,Maelstrom
+52,34,,Garuda
+53,35,,Lycanthrope
+54,36,,Sand Beetle
+55,37,,Necromancer
+56,38,,Great Turtle
+57,39,,Golden Butterfly
+58,3A,,Ghoul
+59,3B,,Treant
+60,3C,,Nueh
+61,3D,,Sea Monk
+62,3E,,Crystal Rose
+63,3F,,Dark Raven
+64,40,,Black Dragon
+65,41,,Wizard
+66,42,,Dragonoid
+67,43,,Dryad
+68,44,,Birdman
+69,45,,Will-O-Wisp
+70,46,,Archer Tree
+71,47,,Stone Head
+72,48,,Blood Bush
+73,49,,Efreet
+74,4A,,Dragon Knight
+75,4B,,Demon Fox
+76,4C,,Juggernaut
+77,4D,,Fire Gargoyle
+78,4E,,Great Demon
+79,4F,,Evil Eye
+80,50,,Blue Dragon
+81,51,,Gnome
+82,52,,Tiger Mage
+83,53,,Hydra
+84,54,,Siren
+85,55,,Chimera
+86,56,,Rheebus
+87,57,,Scythe Beast
+88,58,,Kitty Trap
+89,59,,Night Mare
+90,5A,,Golden Phoenix
+91,5B,,White Tiger
+92,5C,,Venus Spider
+93,5D,,Vampire
+94,5E,,Sphinx
+95,5F,,Puppet Master
+96,60,,Plague Rat
+97,61,,Undine
+98,62,,Whip Worm
+99,63,,Trickster
+100,64,,Caterpoker
+101,65,,Beelzebub
+102,66,,Ice Golem
+103,67,,KingMandragore
+104,68,,Basilisk
+105,69,,Larval Fly
+106,6A,,Mermaid
+107,6B,,Demon Skeleton
+108,6C,,Vampire Bush
+109,6D,,Elephant
+110,6E,,Goblin Lord
+111,6F,,Cyclops
+112,70,,Steel Skeleton
+113,71,,Chaos Armor
+114,72,,Decoy Pillar
+115,73,,Doppelganger
+116,74,,Salamander
+117,75,,Venom Lizard
+118,76,,God of Destruction
+119,77,,Earth Elemental
+120,78,,Water Elemental
+121,79,,Fire Elemental
+122,7A,,Wood Elemental
+123,7B,,Fafnir
+124,7C,,Baby Dragon
+125,7D,,Elf
+126,7E,,Elf Lord
+127,7F,,Beaker
+128,80,,Yowie
+129,81,,Hell Hound
+130,82,,Lamassu
+131,83,,Wyvern
+132,84,,Rabandos
+133,85,,Baba Yaga
+134,86,,Berserk Master
+135,87,,Acid Cloud
+136,88,,Pixie
+137,89,,Dao
+138,8A,,Manticore
+139,8B,,Jade Giant
+140,8C,,Dark Elf
+141,8D,,Gorgon
+142,8E,,Marid
+143,8F,,Emperor
+144,90,,Death
+145,91,,Devata
+146,92,,Brine Dragon
+147,93,,March Hare
+148,94,,Ryuhi
+149,95,,Pazuzu
+150,96,,Napalm Beast
+151,97,,Green Dragom
+152,98,,Blue Mold
+153,99,,Daidarapochi
+154,9A,,Demon Swordsman
+155,9B,,amber Dragon
+156,9C,,Porcupig
+157,9D,,Golden Porcupig
+158,9E,,Vouivre
+159,9F,,Psycho Dice
+160,A0,,Dark Treant
+161,A1,,Phooka
+162,A2,,Gemini
+163,A3,,Coal Treant
+164,A4,,Matador
+165,A5,,Sleeping Giant
+166,A6,,Fireworks
+167,A7,,Storm Hagan
+168,A8,,Rock Hagan
+169,A9,,Bum Hagan
+170,AA,,Global Bust
+171,AB,,Gravity Pillar
+172,AC,,Talos
+173,AD,,Charadrius
+174,AE,,Crystal Magic
+175,AF,,Leprechaun
+176,B0,,Tumblechick
+177,B1,,Mad Reverser
+178,B2,,Myconid
+179,B3,,Sleipnir
+180,B4,,Spartoi
+181,B5,,Lucky Lion
+182,B6,,Vodianoi
+183,B7,,Uroboros
+,,,
+185,B9,,Demon Lord
+,,,
+,,,
+188,BC,,Yin Yang
+189,BD,,Boom Monkey
+190,BE,,Rubber Froggy
+191,BF,,Popgun Charlie
+192,C0,,Ice Skeleton
+193,C1,,Raflesia
+,,,
+195,C3,,Sprite
+196,C4,,Acid Dragon
+197,C5,,Dark Sprite
+198,C6,,SuperPumper
+199,C7,,Undeaad Knight
+200,C8,,Panther Mage
+201,C9,,Sekhmet
+202,CA,,Gargoyle
+,,,
+204,CC,,Pegasus
+205,CD,,Octobush
+206,CE,,Mandra Dancer
+207,CF,,Horus
+,,,
+209,D1,,Chariobot
+210,D2,,Phantom Ship
+211,D3,,Witchlette
+212,D4,,Apsarus
+213,D5,,CircaSaurus
+214,D6,,Anarchy Owl
+215,D7,,Stone Golem
+216,D8,,Fire Moray
+217,D9,,Water Moray
+218,DA,,Earth Moray
+219,DB,,Gizmolizer
+,,,
+221,DD,,UberBomberbot
+222,DE,,Aggressor GL2
+223,DF,,SupberScrubber
+224,E0,,Mechapult
+225,E1,,Aggressor DX5
+226,E2,,Mechlance 5L
+227,E3,,Claws-R-Us
+228,E4,,Triblaster
+229,E5,,Laserbug 39K
+230,E6,,Astrobot
+231,E7,,AcidBot
+232,E8,,Sacred Umpire
+299,12B,,Capture Card
